@@ -1,0 +1,77 @@
+/* banner */
+.banner{
+    width: 100%;
+    height:auto;
+}
+.all{
+    position: absolute;
+    top: 8px;
+    right: 40px;
+    
+}
+.description{
+    font-family: 'Work Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+}
+.title{
+    ont-family: 'Work Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 65px;
+
+}
+.btn-primary{
+    
+    color: red;
+
+}
+
+/* section */
+.section{
+    display: flex;
+    justify-content: space-between;
+    background-color: bisque;
+    padding: 40px;
+    width: 60%;
+    margin: 10rem auto 0 auto;
+}
+.text{
+    margin: 0;
+    font-family: sans-serif;
+}
+.section img{
+    height: 400px;
+   
+
+}
+/* importan */
+.header{
+    text-align: center;
+
+}
+ /* plans-container */
+ .header{
+    color: red;
+ }
+
+ .plans-container{
+    display: flex;
+    background-color: aquamarine;
+    padding: 30px;
+    width: none;
+    justify-content: center;
+    gap: 40px;
+    background-position: top 50% left 50%;
+ }
+ /* gra-sub */
+
+    
+ }
+
+    
+   
+}
+
+}
